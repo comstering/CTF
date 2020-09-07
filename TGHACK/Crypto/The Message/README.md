@@ -21,7 +21,7 @@
     복호화 사이트: <https://www.quinapalus.com/cgi-bin/playfair>
 ![breaker](https://user-images.githubusercontent.com/53170968/92395623-96f3c780-f15e-11ea-970c-10cbf6953ff7.png)
 
-4. 나온 결과중에 FLAG라고 보일 만한 TEXT가 첫줄에 'helpussheiscommingx'인것 같다.
+4. 나온 결과중에 FLAG라고 보일 만한 TEXT가 첫줄에 'helpussheiscomingx'인것 같다.
 5. x가 FLAG에 포함되는지 안되는지 모르겠지만 둘다 입력해보자
 
 ![solution](https://user-images.githubusercontent.com/53170968/92396246-acb5bc80-f15f-11ea-8800-d1ff0a3ed859.png)
