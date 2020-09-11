@@ -29,6 +29,7 @@
 
 10. 결과가 잘 나왔다. 복호화라는 개념이라서 그런가 반대로 생각해야 했었나 보다.
 11. 그럼 답을 입력해보자
+
 ![sol](https://user-images.githubusercontent.com/53170968/92907081-fbb16980-f45f-11ea-91c9-d6899ef2273b.png)
 
 
