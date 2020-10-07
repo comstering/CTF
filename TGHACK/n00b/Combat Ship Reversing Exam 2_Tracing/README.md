@@ -1,4 +1,4 @@
-# Combat Ship Reversing Exam 2: ㅆㄱㅁ챠ㅜㅎ
+# Combat Ship Reversing Exam 2: Tracing
 
 ### Problem
     This old Combat Ship software has some weird validation question you need the answers for to get access. Can you find the answers?
