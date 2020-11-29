@@ -41,6 +41,7 @@
 
 
 12. url을 변경해서 다시 접속한 결과 FLAG를 얻을 수 있었다.
+
 ![image](https://user-images.githubusercontent.com/53170968/100539635-28b13380-327b-11eb-8d06-0ba598cb6a60.png)
 
 13. 이 문제는 html코드를 작성해본 사람이라면 금방 풀 수 있을 것 같다.
