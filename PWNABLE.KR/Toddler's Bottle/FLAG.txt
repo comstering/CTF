@@ -1,0 +1,8 @@
+fd: mommy! I think I know what a file descriptor is!!
+collision: daddy! I just managed to create a hash collision :)
+bof: daddy, I just pwned a buFFer :)
+flag: "UPX...? sounds like a delivery service :)"
+passcode: Sorry mom.. I got confused about scanf usage :(
+random: Mommy, I thought libc random is unpredictable...
+cmd1: mommy now I get what PATH environment is for :)
+cmd2: FuN_w1th_5h3ll_v4riabl3s_haha
